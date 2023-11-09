@@ -7,9 +7,11 @@ Developed a comprehensive cricket tournament dashboard to extract Tournament, Ba
 Link - https://app.powerbi.com/view?r=eyJrIjoiMWZmYzZkNTctNTUxOC00ZGQ5LWFkZWItNDQ2ZTAwOTFkMzVlIiwidCI6ImZmYTY0YWRkLTQyMDAtNGFhYy1iMzA4LWY5ZDk4ZTYzYzZmYiJ9&pageName=ReportSection
 
 1. General Statistis
+   
 ![Screenshot 2023-11-09 161638](https://github.com/karthikrishna24/IPL_Dashboard_POWERBI/assets/111265282/75415116-4ec5-46d2-920b-3ae222403216)
 
-2. Batting & Bowling Statistics
+3. Batting & Bowling Statistics
+
 ![Screenshot 2023-11-09 161707](https://github.com/karthikrishna24/IPL_Dashboard_POWERBI/assets/111265282/aece84bc-dc3a-4300-aa72-c1067ec46d6d)
 
 ## LinkedIn
