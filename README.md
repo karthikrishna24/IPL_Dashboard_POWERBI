@@ -10,7 +10,7 @@ Link - https://app.powerbi.com/view?r=eyJrIjoiMWZmYzZkNTctNTUxOC00ZGQ5LWFkZWItND
    
 ![Screenshot 2023-11-09 161638](https://github.com/karthikrishna24/IPL_Dashboard_POWERBI/assets/111265282/75415116-4ec5-46d2-920b-3ae222403216)
 
-3. Batting & Bowling Statistics
+2. Batting & Bowling Statistics
 
 ![Screenshot 2023-11-09 161707](https://github.com/karthikrishna24/IPL_Dashboard_POWERBI/assets/111265282/aece84bc-dc3a-4300-aa72-c1067ec46d6d)
 
